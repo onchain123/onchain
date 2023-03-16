@@ -1,0 +1,9 @@
+{
+  "name": "SPERMO TOKEN",
+  "symbol": "SPERMO",
+  "decimals": 18,
+  "description": "A reward Token for holding ONCHAIN SPERM NFT",
+  "website": "https://onchainsperm.github.io"
+  "type": "Polygon",
+  "logoURI": "https://raw.githubusercontent.com/onchain123/onchain/main/logo.png"
+}
